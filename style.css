@@ -14,3 +14,7 @@ body {
   input {
     width: 100px;
   }
+
+  #base{
+    height: 50px;
+  }
